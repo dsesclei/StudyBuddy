@@ -1,0 +1,11 @@
+.table-header {
+    font-size: 36px;
+}
+
+table td {
+    width: 10%;
+}
+
+#enter-class {
+    padding-bottom: 10px;
+}
